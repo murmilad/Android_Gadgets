@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gadgets</string>
+    <string name="info">Service config panell!</string>
+    <string name="button_apply">Apply</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
